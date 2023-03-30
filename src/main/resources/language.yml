@@ -1,0 +1,18 @@
+#
+# DarkLegacyMC Syntax Blocker
+# Made by mallusrgreat#8669
+#   play.darklegacymc.tk
+prefix: "&c&l(!) "
+
+unsupported-syntax: "&bSorry, but that syntax is not supported."
+
+sbp-command:
+  # /sbp command
+  message: "&e/sbp reload &7- &6Reloads the language and configuration."
+  no-permission-message: "&4You do not have permission to use this command."
+  invalid-argument: "&cInvalid argument provided. Use &e/sbp reload &cto reload."
+
+  # /sbp reload command
+  reload:
+    failed: "&4Reloading failed. See console for details."
+    success: "&aReloading success."

@@ -1,0 +1,9 @@
+name: SyntaxBlockerPlus
+version: '${project.version}'
+main: tk.darklegacymc.syntaxblocker.SyntaxBlockerPlus
+api-version: 1.19
+author: mallusrgreat
+commands:
+  sbp:
+    description: The main SBP command.
+    usage: "/sbp <reload>"

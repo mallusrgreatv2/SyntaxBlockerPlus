@@ -1,0 +1,10 @@
+#
+# DarkLegacyMC Syntax Blocker
+# Made by mallusrgreat#8669
+#   play.darklegacymc.tk
+permission:
+  unsupported-syntax: "syntaxblockerplus.bypass"
+  slash-sbp: "syntaxblockerplus.command"
+
+# Check if the command (/thisIsTheCommand thisIsNot) contains this string.
+command-contains: ":"

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SyntaxBlockerPlus:jar">
+    <output-path>$USER_HOME$/Downloads/server/plugins</output-path>
+    <root id="archive" name="SyntaxBlockerPlus.jar">
+      <element id="module-output" name="SyntaxBlockerPlus" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
